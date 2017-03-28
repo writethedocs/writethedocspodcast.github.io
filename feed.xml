@@ -1,30 +1,51 @@
 ---
 layout: null
 ---
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>{{site.podcast_title}}</title>
+    <link>{{site.url}}</link>
+    <atom:link href="{{site.url}}" rel="self" type="application/rss+xml" />
+    <description>{{site.podcast_description}}</description>
+    <itunes:author>{{site.podcast_title}}</itunes:author>
+    <copyright>© {{ post.date | date: %Y" }} {{site.podcast_title}}</copyright>
+    <language>en-us</language>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %T %z" }}</lastBuildDate>
+    <itunes:category text="Technology">
+        <itunes:category text="Software How-To" />
+    </itunes:category>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="{{site.url}}/assets/img/wtdpodcastlogo.png"/>
 
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>{{ site.title | xml_escape }}</title>
-        <description>{{ site.description | xml_escape }}</description>
-        <link>{{ site.url }}{{ site.baseurl }}/</link>
-        <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-        <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-        <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-        <generator>Jekyll v{{ jekyll.version }}</generator>
-        {% for post in site.posts limit:10 %}
+    <itunes:subtitle>{{site.podcast_subtitle}}</itunes:subtitle>
+    <itunes:summary>{{site.podcast_summary}}</itunes:summary>
+    <itunes:owner>
+      <itunes:name>{{site.podcast_title}}</itunes:name>
+      <itunes:email>{{site.podcast_email}}</itunes:email>
+    </itunes:owner>
+
+        {% for ep in site.categories.podcasts %}
         <item>
-            <title>{{ post.title | xml_escape }}</title>
-            <description>{% if post.summary %}{{post.summary | xml_escape }} {% else %} {{post.content | xml_escape}} {% endif %}</description>
-            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-            <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-            <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-            {% for tag in post.tags %}
-            <category>{{ tag | xml_escape }}</category>
-            {% endfor %}
-            {% for cat in post.categories %}
-            <category>{{ cat | xml_escape }}</category>
-            {% endfor %}
+            <title><![CDATA[{{ ep.title | cdata_escape }}]]></title>
+            <link>{{ site.url }}{{ ep.url }}</link>
+            <comments>{{ site.url }}{{ ep.url }}#comments</comments>
+            <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Software How-To"/>
+             </itunes:category>
+            <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{{ site.url }}{% if ep.podcast_guid %}/{{ ep.podcast_guid }}{% else %}{{ ep.url }}{% endif %}</guid>
+            <description>
+                <![CDATA[{{ ep.summary | cdata_escape }}]]>
+            </description>
+
+            <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
+            <itunes:subtitle>{{ ep.summary | strip_html | expand_urls: site.url | cdata_escape }}</itunes:subtitle>
+            <itunes:summary>{{ ep.summary | expand_urls: site.url | cdata_escape }}</itunes:summary>
+            <itunes:author>Write the Docs community</itunes:author>
+            <itunes:image href="{{site.url}}/assets/img/wtdpodcastlogo.png" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
         </item>
         {% endfor %}
     </channel>

@@ -1,7 +1,7 @@
 title: Write the Docs Podcast
-description: Podcasts for the Write the Docs community. Topics focus on technical writing, software documentation, information architecture, user experience, and more.
-url: http://writethedocspodcast.org
-twitter: writethedocspod
+description: >
+  WTD Podcasts contains both podcasts recorded by members of the Write the Docs community and meetup recordings from any WTD meetup that wants to contribute. Both podcasts and recordings focus on topics related to software documentation and technical writing.
+url: http://podcast.writethedocs.org
 
 host: 127.0.0.1
 port: 4008
@@ -25,13 +25,13 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "default"
+      layout: "page"
   -
     scope:
       path: ""
       type: "posts"
     values:
-      layout: "default"
+      layout: "podcast"
       comments: true
 
 gems: [jekyll-sitemap, jekyll-mentions, jekyll-redirect-from, jekyll-paginate]
@@ -39,8 +39,8 @@ gems: [jekyll-sitemap, jekyll-mentions, jekyll-redirect-from, jekyll-paginate]
 ## Values for podcast RSS feed
 
 podcast_subtitle: A discussion podcast based on WTD topics and issues, focused on technical writing and documentation for software products.
-podcast_url: http://writethedocspodcast.org
-podcast_album_art: http://writethedocspodcast.org/assets/img/wtdpodcastlogo.png
+podcast_url: http://podcast.writethedocs.org
+podcast_album_art: http://podcast.writethedocs.org/assets/img/wtdpodcastlogo.png
 podcast_title: Write the Docs Podcast
 podcast_owner: Write the Docs Community
 podcast_email: writethedocspodcast@gmail.com

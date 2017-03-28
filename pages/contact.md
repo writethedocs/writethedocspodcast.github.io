@@ -1,9 +1,11 @@
 ---
-title: Contact Us
+title: Contact the Hosts
 permalink: /contact/
 ---
 
-Have some feedback, comments, or a request? The best way to reach us is through <a href="https://writethedocs.slack.com/messages/podcast">#podcast channel on the WTD Slack forum</a>. Alternatively, send an email to <a mailto="writethedocspodcast@gmail.com">writethedocspodcast@gmail.com</a> or use the form below to reach us.
+Have some feedback, comments, or a request? The best way to reach us is through <a href="https://writethedocs.slack.com/messages/podcast">#podcast channel</a> on the WTD Slack forum.
+
+Alternatively, send an email to <a mailto="writethedocspodcast@gmail.com">writethedocspodcast@gmail.com</a> or use the form below to reach us.
 
 {% comment %} Form is from wufoo forms. {% endcomment %}
 <div id="wufoo-zwq45h30yz8ykx">

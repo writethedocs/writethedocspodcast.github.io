@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/{{ page.youtube_id}}" frameborder="0" allowfullscreen=""></iframe>
+
+<div class="podcastMeta">
+    {% if page.categories contains "meetups" %}<b>About this meetup: </b>{% endif %}
+    {% if page.categories contains "podcasts" %}<b>About this podcast: </b>{% endif %}
+
+    <ul>
+    <li>Recorded {{ page.date | date: "%b %d, %Y" }}</li>
+    {% if page.podcast_duration %}<li>Length: {{ page.podcast_duration }}</li>{% endif %}
+    {% if page.categories contains "meetups" %}<li><a href="{{ page.event_link }}">{{ page.meetup }}</a></li>{% endif %}
+    {% if page.podcast_link %}<li><a href="{{ page.podcast_link }}">Download MP3</a></li>{% endif %}
+    {% if page.slides %}<li><a href="{{ page.slides }}">Slides</a></li>{% endif %}
+    {% if page.link %}<li><a href="{{page.podcast_link}}">MP3</a></li>{% endif %}
+</ul>
+</div>
+
+{{ content }}
+
+<hr/>
+<h3>Subscribe to the WTD Podcast</h3>
+<ul>
+    {% for option in site.data.subscribe_options.info %}
+    <li><a href="{{ option.url }}">{{ option.title }}</a></li>
+    {% endfor %}
+</ul>

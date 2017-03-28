@@ -1,0 +1,46 @@
+podcasts:
+
+- title: Content Content
+  author: Ed Marsh
+  url: http://edmarsh.com/content-content-podcast/
+  img: edmarsh.jpg
+
+- title: The Not Boring Technical Writer
+  author: Jacob Moses
+  url: http://jacobmoses.com/series/tech-writer-podcast/
+  img: jacobmoses.jpg
+
+- title: This Week in Tech
+  author: Leo Laporte
+  url: https://twit.tv/shows/this-week-in-tech
+  img: leolaporte.jpg
+
+- title: The Verge Cast
+  author: The Verge
+  url: http://www.theverge.com/podcasts
+  img: verge.png
+
+- title: Radio Lab
+  author: Jad Abumbrad and Robert Krulwich
+  url: http://www.radiolab.org/
+  img: radiolab.png
+
+- title: I'd Rather Be Writing
+  author: Tom Johnson
+  url: http://idratherbewriting.com/category-podcasts/
+  img: tomjohnsonpodcast.jpg
+
+- title: Reply All
+  author: Gimlet Media
+  url: https://gimletmedia.com/reply-all/
+  img: replyall.jpg
+
+- title: The Accidental Tech Podcast
+  author: atp.fm
+  url: http://atp.fm/
+  img: accidentaltechpodcast.jpg
+
+- title: Boagworld
+  author: Paul Boag
+  url: https://boagworld.com/show/
+  img: boagworld.jpg

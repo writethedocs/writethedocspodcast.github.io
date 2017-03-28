@@ -1,0 +1,24 @@
+---
+layout: default
+type: homepage
+---
+
+The Write the Docs Podcast publishes both discussion-style podcasts and meetup recordings.
+
+<h2>Recent Podcasts</h2>
+
+<ul class="postlist">
+{% for post in site.categories.podcasts %}
+    <li><a class="reference internal" href="{{ post.url }}">{{ post.title}}</a> (<span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>)</li>
+{% endfor %}
+</ul>
+
+<h2>Recent Meetup Recordings</h2>
+
+<ul class="postlist">
+    {% for post in site.categories.meetups %}
+    <li><a class="reference internal" href="{{ post.url }}">{{ post.title}}</a> (<span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>)</li>
+    {% endfor %}
+</ul>
+
+

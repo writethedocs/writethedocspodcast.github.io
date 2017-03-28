@@ -1,0 +1,444 @@
+---
+layout: null
+---
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+<channel>
+<title>Ham Nation (Video-HD)</title>
+<link>https://twit.tv/shows/ham-nation</link>
+<generator>TWiT Feed Generator v3.0.3</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<language>en-US</language>
+<copyright>
+This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/
+</copyright>
+<creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<managingEditor>leo@twit.tv (Leo Laporte)</managingEditor>
+<webMaster>distro@twit.tv (TWiT Engineering)</webMaster>
+<ttl>720</ttl>
+<sy:updatePeriod>weekly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<lastBuildDate>Wed, 15 Mar 2017 21:50:52 PDT</lastBuildDate>
+<pubDate>Wed, 15 Mar 2017 21:50:52 PDT</pubDate>
+<itunes:author>TWiT</itunes:author>
+<itunes:subtitle>
+Calling all hams! The ultimate amateur radio talk show meets here weekly.
+</itunes:subtitle>
+<itunes:summary>
+Share in the excitement and importance of ham radio - from tossing an antenna wire into a tree allowing you to talk to the world, to the importance of ham radio operators in time of disasters with hosts Bob Heil, Gordon West, George Thomas, Don Wilbanks, Valerie Hotzfeld, Amanda Alden, and Dale Puckett. Records live every Wednesday at 9:00pm Eastern / 6:00pm Pacific / 01:00 UTC.
+</itunes:summary>
+<description>
+Share in the excitement and importance of ham radio - from tossing an antenna wire into a tree allowing you to talk to the world, to the importance of ham radio operators in time of disasters with hosts Bob Heil, Gordon West, George Thomas, Don Wilbanks, Valerie Hotzfeld, Amanda Alden, and Dale Puckett. Records live every Wednesday at 9:00pm Eastern / 6:00pm Pacific / 01:00 UTC.
+</description>
+<itunes:keywords>
+TWiT, Technology, Bob Heil, Heil Sound, ham radio, amateur radio, call sign, Gordon West
+</itunes:keywords>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:block>no</itunes:block>
+<itunes:owner>
+<itunes:name>Leo Laporte</itunes:name>
+<itunes:email>leo@twit.tv</itunes:email>
+</itunes:owner>
+<itunes:category text="Games and Hobbies">
+<itunes:category text="Hobbies"/>
+</itunes:category>
+<itunes:category text="Games and Hobbies"/>
+<itunes:category text="Technology">
+<itunes:category text="Gadgets"/>
+</itunes:category>
+<image>
+<title>Ham Nation (Video-HD)</title>
+<url>
+https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=J_kRhXo1
+</url>
+<link>https://twit.tv/shows/ham-nation</link>
+<width>144</width>
+<height>144</height>
+</image>
+<itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=WbjMlUP0"/>
+<atom:link href="http://feeds.twit.tv/hn_video_hd.xml" type="application/rss+xml" rel="self"/>
+<item>
+<title>HN 291: Tune Up Your Oscilloscope</title>
+<pubDate>Wed, 15 Mar 2017 19:35:04 PDT</pubDate>
+<link>https://twit.tv/shows/ham-nation/episodes/291</link>
+<comments>https://twit.tv/shows/ham-nation/episodes/291</comments>
+<itunes:author>TWiT</itunes:author>
+<category>Technology</category>
+<category>Ham Radio</category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:subtitle>
+Young Hams, Pine Board Project continued, and tune your oscilloscope!
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>Don visits Rayne Hamfest, impressive young Hams, Bob continues his Pine Board Project, Randy shows how to tune your oscilloscope, making a pigtail cable with Gary Hoehne KB9AIT, and Amanda brings on your questions from the chat room!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a>, and <a href="https://twitter.com/k0hyd" target="_blank">Dale Puckett</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</itunes:summary>
+<itunes:keywords>Ham Radio, pine box, bob heil, Oscilloscope</itunes:keywords>
+<description>
+<![CDATA[
+<p><img src="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=J_kRhXo1" align="right" hspace="20" vspace="20" border="0" title="Ham Nation (Video-HD)" alt="Ham Nation (Video-HD)"/></p><p>Don visits Rayne Hamfest, impressive young Hams, Bob continues his Pine Board Project, Randy shows how to tune your oscilloscope, making a pigtail cable with Gary Hoehne KB9AIT, and Amanda brings on your questions from the chat room!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a>, and <a href="https://twitter.com/k0hyd" target="_blank">Dale Puckett</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</description>
+<guid isPermaLink="false">
+http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0291/hn0291_h264m_1280x720_1872.mp4
+</guid>
+<itunes:duration>1:07:12</itunes:duration>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0291/hn0291_h264m_1280x720_1872.mp4" length="990740448" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0291/hn0291_h264m_1280x720_1872.mp4" fileSize="990740448" type="video/mp4" medium="video">
+<media:thumbnail url="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/438261/hero/hn0291_h264.00_40_30_15.still001.jpg?itok=zvpdb4ec" width="400" height="225"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+<media:credit role="anchor person">Bob Heil</media:credit>
+<media:credit role="anchor person">George Thomas</media:credit>
+<media:credit role="anchor person">Don Wilbanks</media:credit>
+<media:credit role="anchor person">Amanda Alden</media:credit>
+<media:credit role="anchor person">Dale Puckett</media:credit>
+</media:content>
+</item>
+<item>
+<title>HN 290: The Chip Stick</title>
+<pubDate>Wed, 08 Mar 2017 21:02:09 PDT</pubDate>
+<link>https://twit.tv/shows/ham-nation/episodes/290</link>
+<comments>https://twit.tv/shows/ham-nation/episodes/290</comments>
+<itunes:author>TWiT</itunes:author>
+<category>Technology</category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:subtitle>
+Mobile antennas, single tube transmitter on a pine board, and finish fixing your old speaker!
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>Gordo covers a wide range of mobile antennas, Bob continues his single tube transmitter pine board project, Don creates a new ham meme, George finishes his re-cone project, Val's IOTA final, and Amanda Chat Room questions!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://www.facebook.com/vhotzfeld" target="_blank">Valerie Hotzfeld</a>, and <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</itunes:summary>
+<itunes:keywords>Ham Radio</itunes:keywords>
+<description>
+<![CDATA[
+<p><img src="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=J_kRhXo1" align="right" hspace="20" vspace="20" border="0" title="Ham Nation (Video-HD)" alt="Ham Nation (Video-HD)"/></p><p>Gordo covers a wide range of mobile antennas, Bob continues his single tube transmitter pine board project, Don creates a new ham meme, George finishes his re-cone project, Val's IOTA final, and Amanda Chat Room questions!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://www.facebook.com/vhotzfeld" target="_blank">Valerie Hotzfeld</a>, and <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</description>
+<guid isPermaLink="false">
+http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0290/hn0290_h264m_1280x720_1872.mp4
+</guid>
+<itunes:duration>1:33:30</itunes:duration>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0290/hn0290_h264m_1280x720_1872.mp4" length="1085403491" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0290/hn0290_h264m_1280x720_1872.mp4" fileSize="1085403491" type="video/mp4" medium="video">
+<media:thumbnail url="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/434001/hero/edit.00_41_15_13.still002.jpg?itok=vpzjzgKx" width="400" height="225"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+<media:credit role="anchor person">Bob Heil</media:credit>
+<media:credit role="anchor person">Gordon West</media:credit>
+<media:credit role="anchor person">George Thomas</media:credit>
+<media:credit role="anchor person">Don Wilbanks</media:credit>
+<media:credit role="anchor person">Valerie Hotzfeld</media:credit>
+<media:credit role="anchor person">Amanda Alden</media:credit>
+</media:content>
+</item>
+<item>
+<title>HN 289: The Pine Board Transmitter</title>
+<pubDate>Wed, 01 Mar 2017 21:18:32 PDT</pubDate>
+<link>https://twit.tv/shows/ham-nation/episodes/289</link>
+<comments>https://twit.tv/shows/ham-nation/episodes/289</comments>
+<itunes:author>TWiT</itunes:author>
+<category>Technology</category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:subtitle>
+AM Rally, Pine Board Transmitter, and Award Winners.
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>Bob builds a small transmitter using a pine board, Michael Kalter announces Dayton Hamvention winners, new headlines of the week with Don, Tuners versus SWR, and more!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a>, and <a href="https://twitter.com/k0hyd" target="_blank">Dale Puckett</a></p> <p><strong>Guest:</strong> <a href="http://hamvention.org/" target="_blank">Michael Kalter</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</itunes:summary>
+<itunes:keywords>Ham Radio</itunes:keywords>
+<description>
+<![CDATA[
+<p><img src="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=J_kRhXo1" align="right" hspace="20" vspace="20" border="0" title="Ham Nation (Video-HD)" alt="Ham Nation (Video-HD)"/></p><p>Bob builds a small transmitter using a pine board, Michael Kalter announces Dayton Hamvention winners, new headlines of the week with Don, Tuners versus SWR, and more!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a>, and <a href="https://twitter.com/k0hyd" target="_blank">Dale Puckett</a></p> <p><strong>Guest:</strong> <a href="http://hamvention.org/" target="_blank">Michael Kalter</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</description>
+<guid isPermaLink="false">
+http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0289/hn0289_h264m_1280x720_1872.mp4
+</guid>
+<itunes:duration>1:21:14</itunes:duration>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0289/hn0289_h264m_1280x720_1872.mp4" length="888490339" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0289/hn0289_h264m_1280x720_1872.mp4" fileSize="888490339" type="video/mp4" medium="video">
+<media:thumbnail url="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/430361/hero/hn0289_h264.00_47_51_56.still001.jpg?itok=-TTW6haA" width="400" height="225"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+<media:credit role="anchor person">Bob Heil</media:credit>
+<media:credit role="anchor person">Gordon West</media:credit>
+<media:credit role="anchor person">George Thomas</media:credit>
+<media:credit role="anchor person">Don Wilbanks</media:credit>
+<media:credit role="anchor person">Amanda Alden</media:credit>
+<media:credit role="anchor person">Dale Puckett</media:credit>
+<media:credit role="reporter">Michael Kalter</media:credit>
+</media:content>
+</item>
+<item>
+<title>HN 288: All About Arecibo</title>
+<pubDate>Wed, 22 Feb 2017 22:10:54 PDT</pubDate>
+<link>https://twit.tv/shows/ham-nation/episodes/288</link>
+<comments>https://twit.tv/shows/ham-nation/episodes/288</comments>
+<itunes:author>TWiT</itunes:author>
+<category>Ham Radio</category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:subtitle>
+Rain can't stop a Hamfest, Arecibo footage, and fix your old speakers!
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>Flooding can't stop a Hamfest with Gordo, interview with 13 year old Bryant Rascoll KG5HVO, Val has footage from Arecibo, and George shows how to fix your old speakers!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, and <a href="https://www.facebook.com/vhotzfeld" target="_blank">Valerie Hotzfeld</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</itunes:summary>
+<itunes:keywords>Ham Radio</itunes:keywords>
+<description>
+<![CDATA[
+<p><img src="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=J_kRhXo1" align="right" hspace="20" vspace="20" border="0" title="Ham Nation (Video-HD)" alt="Ham Nation (Video-HD)"/></p><p>Flooding can't stop a Hamfest with Gordo, interview with 13 year old Bryant Rascoll KG5HVO, Val has footage from Arecibo, and George shows how to fix your old speakers!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, and <a href="https://www.facebook.com/vhotzfeld" target="_blank">Valerie Hotzfeld</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</description>
+<guid isPermaLink="false">
+http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0288/hn0288_h264m_1280x720_1872.mp4
+</guid>
+<itunes:duration>1:18:37</itunes:duration>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0288/hn0288_h264m_1280x720_1872.mp4" length="1222703579" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0288/hn0288_h264m_1280x720_1872.mp4" fileSize="1222703579" type="video/mp4" medium="video">
+<media:thumbnail url="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/425641/hero/edit.00_38_49_08.still003.jpg?itok=cSvWFHYl" width="400" height="225"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+<media:credit role="anchor person">Gordon West</media:credit>
+<media:credit role="anchor person">George Thomas</media:credit>
+<media:credit role="anchor person">Don Wilbanks</media:credit>
+<media:credit role="anchor person">Valerie Hotzfeld</media:credit>
+</media:content>
+</item>
+<item>
+<title>HN 287: The Amazing Lea Family</title>
+<pubDate>Wed, 15 Feb 2017 20:50:58 PDT</pubDate>
+<link>https://twit.tv/shows/ham-nation/episodes/287</link>
+<comments>https://twit.tv/shows/ham-nation/episodes/287</comments>
+<itunes:author>TWiT</itunes:author>
+<category>Technology</category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:subtitle>
+Lea family of Hams, fix your old speakers, and ham vacation highlights!
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>The Lea family comes onto the show, fix your old speakers, Hamcation highlights, winter field day, and more!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a>, and <a href="https://twitter.com/k0hyd" target="_blank">Dale Puckett</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</itunes:summary>
+<itunes:keywords>Ham Radio</itunes:keywords>
+<description>
+<![CDATA[
+<p><img src="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=J_kRhXo1" align="right" hspace="20" vspace="20" border="0" title="Ham Nation (Video-HD)" alt="Ham Nation (Video-HD)"/></p><p>The Lea family comes onto the show, fix your old speakers, Hamcation highlights, winter field day, and more!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a>, and <a href="https://twitter.com/k0hyd" target="_blank">Dale Puckett</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</description>
+<guid isPermaLink="false">
+http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0287/hn0287_h264m_1280x720_1872.mp4
+</guid>
+<itunes:duration>1:15:07</itunes:duration>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0287/hn0287_h264m_1280x720_1872.mp4" length="1277732021" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0287/hn0287_h264m_1280x720_1872.mp4" fileSize="1277732021" type="video/mp4" medium="video">
+<media:thumbnail url="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/421701/hero/hn0287_h264.00_22_12_33.still002.jpg?itok=MXPQDCdl" width="400" height="225"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+<media:credit role="anchor person">Gordon West</media:credit>
+<media:credit role="anchor person">George Thomas</media:credit>
+<media:credit role="anchor person">Don Wilbanks</media:credit>
+<media:credit role="anchor person">Amanda Alden</media:credit>
+<media:credit role="anchor person">Dale Puckett</media:credit>
+</media:content>
+</item>
+<item>
+<title>HN 286: Radio Silence</title>
+<pubDate>Wed, 08 Feb 2017 20:55:14 PDT</pubDate>
+<link>https://twit.tv/shows/ham-nation/episodes/286</link>
+<comments>https://twit.tv/shows/ham-nation/episodes/286</comments>
+<itunes:author>TWiT</itunes:author>
+<category>Ham Radio</category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:subtitle>
+Tornado in New Orleans, Val's back from Costa Rica, and the difference between an oscilloscope and spectrum analyzer!
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>New Orleans has an EF-2 tornado, Val is back from her trip at SETI, Randy shows you how to build your own power pole polarity tester, learn the difference between an oscilloscope or spectrum analyzer, and Amanda asks what Don's CB handle use to be!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://www.facebook.com/vhotzfeld" target="_blank">Valerie Hotzfeld</a>, and <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</itunes:summary>
+<itunes:keywords>Ham Radio</itunes:keywords>
+<description>
+<![CDATA[
+<p><img src="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=J_kRhXo1" align="right" hspace="20" vspace="20" border="0" title="Ham Nation (Video-HD)" alt="Ham Nation (Video-HD)"/></p><p>New Orleans has an EF-2 tornado, Val is back from her trip at SETI, Randy shows you how to build your own power pole polarity tester, learn the difference between an oscilloscope or spectrum analyzer, and Amanda asks what Don's CB handle use to be!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://www.facebook.com/vhotzfeld" target="_blank">Valerie Hotzfeld</a>, and <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</description>
+<guid isPermaLink="false">
+http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0286/hn0286_h264m_1280x720_1872.mp4
+</guid>
+<itunes:duration>1:11:43</itunes:duration>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0286/hn0286_h264m_1280x720_1872.mp4" length="926051543" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0286/hn0286_h264m_1280x720_1872.mp4" fileSize="926051543" type="video/mp4" medium="video">
+<media:thumbnail url="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/416211/hero/hn0286_h264.01_12_58_54.still001.jpg?itok=l5l8a1Lm" width="400" height="225"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+<media:credit role="anchor person">Bob Heil</media:credit>
+<media:credit role="anchor person">Gordon West</media:credit>
+<media:credit role="anchor person">George Thomas</media:credit>
+<media:credit role="anchor person">Don Wilbanks</media:credit>
+<media:credit role="anchor person">Valerie Hotzfeld</media:credit>
+<media:credit role="anchor person">Amanda Alden</media:credit>
+</media:content>
+</item>
+<item>
+<title>HN 285: Non Polarized Capacitors</title>
+<pubDate>Thu, 02 Feb 2017 10:12:37 PDT</pubDate>
+<link>https://twit.tv/shows/ham-nation/episodes/285</link>
+<comments>https://twit.tv/shows/ham-nation/episodes/285</comments>
+<itunes:author>TWiT</itunes:author>
+<category>Technology</category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:subtitle>
+Audio Alley about capacitors, return from QuartzFest, and BITX-40 wiring!
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>Learn how polarized capacitors work, Gordo returns from QuartzFest, EagleCap dog sleds, how to install Wine on a Mac, Randy shows how to wire the BITX-30 and operation.</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a>, and <a href="https://twitter.com/k0hyd" target="_blank">Dale Puckett</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</itunes:summary>
+<itunes:keywords>Ham Radio</itunes:keywords>
+<description>
+<![CDATA[
+<p><img src="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=J_kRhXo1" align="right" hspace="20" vspace="20" border="0" title="Ham Nation (Video-HD)" alt="Ham Nation (Video-HD)"/></p><p>Learn how polarized capacitors work, Gordo returns from QuartzFest, EagleCap dog sleds, how to install Wine on a Mac, Randy shows how to wire the BITX-30 and operation.</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a>, and <a href="https://twitter.com/k0hyd" target="_blank">Dale Puckett</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</description>
+<guid isPermaLink="false">
+http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0285/hn0285_h264m_1280x720_1872.mp4
+</guid>
+<itunes:duration>1:15:24</itunes:duration>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0285/hn0285_h264m_1280x720_1872.mp4" length="952842640" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0285/hn0285_h264m_1280x720_1872.mp4" fileSize="952842640" type="video/mp4" medium="video">
+<media:thumbnail url="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/411271/hero/hn0285_h264.01_15_02_26.still001.jpg?itok=Jvwh2otM" width="400" height="225"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+<media:credit role="anchor person">Bob Heil</media:credit>
+<media:credit role="anchor person">Gordon West</media:credit>
+<media:credit role="anchor person">George Thomas</media:credit>
+<media:credit role="anchor person">Don Wilbanks</media:credit>
+<media:credit role="anchor person">Amanda Alden</media:credit>
+<media:credit role="anchor person">Dale Puckett</media:credit>
+</media:content>
+</item>
+<item>
+<title>HN 284: Sean Kutzko and Val in Puerto Rico</title>
+<pubDate>Wed, 25 Jan 2017 21:07:24 PDT</pubDate>
+<link>https://twit.tv/shows/ham-nation/episodes/284</link>
+<comments>https://twit.tv/shows/ham-nation/episodes/284</comments>
+<itunes:author>TWiT</itunes:author>
+<category>Ham Radio</category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:subtitle>Sean Kutzko KX9X, Val in Puerto Rico, and SETI.</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>Bob interviews Sean Kutzko from ARRL, Val is in Puerto Rico visiting Arecibo Observatory, and learn about SETI!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://www.facebook.com/vhotzfeld" target="_blank">Valerie Hotzfeld</a>, and <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</itunes:summary>
+<itunes:keywords>Ham Radio</itunes:keywords>
+<description>
+<![CDATA[
+<p><img src="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=J_kRhXo1" align="right" hspace="20" vspace="20" border="0" title="Ham Nation (Video-HD)" alt="Ham Nation (Video-HD)"/></p><p>Bob interviews Sean Kutzko from ARRL, Val is in Puerto Rico visiting Arecibo Observatory, and learn about SETI!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://www.facebook.com/vhotzfeld" target="_blank">Valerie Hotzfeld</a>, and <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</description>
+<guid isPermaLink="false">
+http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0284/hn0284_h264m_1280x720_1872.mp4
+</guid>
+<itunes:duration>1:05:08</itunes:duration>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0284/hn0284_h264m_1280x720_1872.mp4" length="820026394" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0284/hn0284_h264m_1280x720_1872.mp4" fileSize="820026394" type="video/mp4" medium="video">
+<media:thumbnail url="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/405111/hero/hn0284_h264.00_25_13_29.still001.jpg?itok=m9Qtt-S3" width="400" height="225"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+<media:credit role="anchor person">Bob Heil</media:credit>
+<media:credit role="anchor person">George Thomas</media:credit>
+<media:credit role="anchor person">Don Wilbanks</media:credit>
+<media:credit role="anchor person">Valerie Hotzfeld</media:credit>
+<media:credit role="anchor person">Amanda Alden</media:credit>
+</media:content>
+</item>
+<item>
+<title>HN 283: The Hiram Percy Maxim Winner</title>
+<pubDate>Wed, 18 Jan 2017 20:30:43 PDT</pubDate>
+<link>https://twit.tv/shows/ham-nation/episodes/283</link>
+<comments>https://twit.tv/shows/ham-nation/episodes/283</comments>
+<itunes:author>TWiT</itunes:author>
+<category>Technology</category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:subtitle>
+Quatzfest is near, Battery Box, and Tales From the Transmitter!
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>Maxim award winner, battery box, tales from the transmitter, battery box build, BITX40 unboxing, Solar report and more!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a>, and <a href="https://twitter.com/k0hyd" target="_blank">Dale Puckett</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</itunes:summary>
+<itunes:keywords>Ham Radio</itunes:keywords>
+<description>
+<![CDATA[
+<p><img src="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=J_kRhXo1" align="right" hspace="20" vspace="20" border="0" title="Ham Nation (Video-HD)" alt="Ham Nation (Video-HD)"/></p><p>Maxim award winner, battery box, tales from the transmitter, battery box build, BITX40 unboxing, Solar report and more!</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a>, and <a href="https://twitter.com/k0hyd" target="_blank">Dale Puckett</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</description>
+<guid isPermaLink="false">
+http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0283/hn0283_h264m_1280x720_1872.mp4
+</guid>
+<itunes:duration>1:14:34</itunes:duration>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0283/hn0283_h264m_1280x720_1872.mp4" length="906014040" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0283/hn0283_h264m_1280x720_1872.mp4" fileSize="906014040" type="video/mp4" medium="video">
+<media:thumbnail url="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/399741/hero/hn0283_h264.01_14_18_27.still001.jpg?itok=O-J2B5Ww" width="400" height="225"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+<media:credit role="anchor person">Gordon West</media:credit>
+<media:credit role="anchor person">George Thomas</media:credit>
+<media:credit role="anchor person">Don Wilbanks</media:credit>
+<media:credit role="anchor person">Amanda Alden</media:credit>
+<media:credit role="anchor person">Dale Puckett</media:credit>
+</media:content>
+</item>
+<item>
+<title>HN 282: A First Look at Bouvet</title>
+<pubDate>Wed, 11 Jan 2017 20:20:25 PDT</pubDate>
+<link>https://twit.tv/shows/ham-nation/episodes/282</link>
+<comments>https://twit.tv/shows/ham-nation/episodes/282</comments>
+<itunes:author>TWiT</itunes:author>
+<category>Ham Radio</category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:subtitle>
+Bouvet DX expedition, DIY Crimping, and contacting the ISS!
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>Learn about the DX expedition to the most isolated island on earth, Bob builds a pine board transmitter, Randy K7AGE crimps power cables, and Gordo contacts the International Space Station.</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://www.facebook.com/vhotzfeld" target="_blank">Valerie Hotzfeld</a>, and <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</itunes:summary>
+<itunes:keywords>Ham Radio</itunes:keywords>
+<description>
+<![CDATA[
+<p><img src="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/ham_nation/album_art/hd/hn1400videohd.jpg?itok=J_kRhXo1" align="right" hspace="20" vspace="20" border="0" title="Ham Nation (Video-HD)" alt="Ham Nation (Video-HD)"/></p><p>Learn about the DX expedition to the most isolated island on earth, Bob builds a pine board transmitter, Randy K7AGE crimps power cables, and Gordo contacts the International Space Station.</p> <p><strong>Hosts:</strong> <a href="https://twit.tv/people/bob-heil">Bob Heil</a>, <a href="https://twit.tv/people/gordon-west">Gordon West</a>, <a href="http://www.amateurlogic.tv/" target="_blank">George Thomas</a>, <a href="https://twitter.com/1donwilbanks" target="_blank">Don Wilbanks</a>, <a href="https://www.facebook.com/vhotzfeld" target="_blank">Valerie Hotzfeld</a>, and <a href="https://twitter.com/k1ddn" target="_blank">Amanda Alden</a></p> <p>We invite you to read, add to, and amend our show notes at <a href="http://wiki.twit.tv/wiki/Ham_Nation">wiki.twit.tv</a>.</p><p>Submit your own video to Ham Nation at <a href="mailto:hamnationvideos@twit.tv">HamNationVideos@twit.tv</a></p><p>Thanks to Joe Walsh who wrote and plays the Ham Nation theme.</p><p>Check out Ham Nation on <a href="https://www.facebook.com/HNonTWiT/">Facebook</a> and <a href="https://twitter.com/HamNationOnTWiT">Twitter</a>!</p><p>Download or subscribe to Ham Nation at <a href="https://twit.tv/shows/ham-nation">https://twit.tv/shows/ham-nation</a></p><p>Thanks to <a href="https://www.cachefly.com/" target="_blank">CacheFly</a> for the bandwidth for this show.</p>
+]]>
+</description>
+<guid isPermaLink="false">
+http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0282/hn0282_h264m_1280x720_1872.mp4
+</guid>
+<itunes:duration>1:10:55</itunes:duration>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0282/hn0282_h264m_1280x720_1872.mp4" length="959632611" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/cdn.twit.tv/video/hn/hn0282/hn0282_h264m_1280x720_1872.mp4" fileSize="959632611" type="video/mp4" medium="video">
+<media:thumbnail url="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/394391/hero/edit.01_09_21_08.still001.jpg?itok=7xoRt7QH" width="400" height="225"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+<media:credit role="anchor person">Bob Heil</media:credit>
+<media:credit role="anchor person">Gordon West</media:credit>
+<media:credit role="anchor person">George Thomas</media:credit>
+<media:credit role="anchor person">Don Wilbanks</media:credit>
+<media:credit role="anchor person">Valerie Hotzfeld</media:credit>
+<media:credit role="anchor person">Amanda Alden</media:credit>
+</media:content>
+</item>
+</channel>
+</rss>

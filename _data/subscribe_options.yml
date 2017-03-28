@@ -4,6 +4,10 @@ info:
   url: https://itunes.apple.com/us/podcast/write-the-docs-podcast/id1178393510
   fontawesome: podcast
 
+- title: Stitcher
+  url: http://www.stitcher.com/s?fid=124627&refid=stpr
+  fontawesome: sellsy
+
 - title: Youtube
   url: https://www.youtube.com/channel/UCUI--N-VWjK93292AaaArCg
   fontawesome: youtube
@@ -13,7 +17,7 @@ info:
   fontawesome: slack
 
 - title: RSS
-  url: http://writethedocspodcast.org/feed.xml
+  url: http://podcast.writethedocs.org/itunes.rss
   fontawesome: rss
 
 - title: Email

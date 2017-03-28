@@ -1,112 +1,143 @@
-{% include head.html %}
 
-<!-- ===== MAIN ===== -->
-<main id="main" class="main">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-    {% if page.type == "homepage" %}
-    <!-- ===== PODCAST LIST ===== -->
-    <section id="#episodes" class="section-positive">
-        <div class="container">
 
-            <!-- ===== SECTION TITLE ===== -->
-            <h2 class="title-default">Podcasts</h2>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="A series of events for technical writers, documentarians, and all those who write the docs." name="description" />
+<meta content="Write the Docs Podcast" name="author" />
+<meta content="Portland, Oregon" name="geo.placename" />
 
-            <div class="row">
+      {% if page.type == "homepage" %}
+      <title>{{ page.title }} | {{ site.description | escape }}</title>
 
-                <!-- ===== PODCAST CARD FULL ===== -->
+      {% else %}
 
-                {% for post in site.posts %}
-                <div class="col-sm-12 mb-40">
-                    <div class="podcast-card full">
-                        <figure class="podcast-image"><a href="{{post.url}}"><img src="/assets/img/episodethumbs/{% if post.thumb %}{{post.thumb}}{% else %}fillerthumb.png{% endif %}" alt="{{post.title}}" title="{{post.title}}" /></a></figure>
-                        <div class="podcast-content">
-                            <span class="podcast-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-                            <h2 class="podcast-title"><a href="{{post.url}}">{{post.title}}</a></h2>
-                            <p class="podcast-excerpt"><a href="{{post.url}}">{{ post.summary | strip_html }}</a></p>
-                            <ul class="podcast-meta">
-                                <li class="item"> {% if post.layout == "video_post" %}video {% elsif post.layout == "audio_post" %} audio{% endif %}</li>
-                                <li class="item"><i class="fa fa-clock-o"></i> {{post.podcast_duration}}</li>
-                                <li class="item"><a class="podcast-play" href="{{post.url}}"><i class="fa fa-play"></i> View Episode</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+    <title>{{ page.title }} | {{ site.title }}</title>
 
-                {% endfor %}
-                {% endif %}
+      {% endif %}
+      <link href="http://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
-            </div>
+
+      <link rel="stylesheet" href="http://www.writethedocs.org/_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="http://www.writethedocs.org/_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="https://media.readthedocs.org/css/badge_only.css" type="text/css" />
+      <link rel="stylesheet" href="/assets/css/customstyles.css" type="text/css" />
+
+
+      <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '1.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"></script>
+    <script type="text/javascript" src="https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="https://media.readthedocs.org/javascript/underscore.js"></script>
+    <script type="text/javascript" src="https://media.readthedocs.org/javascript/doctools.js"></script>
+    <script type="text/javascript" src="https://media.readthedocs.org/javascript/readthedocs-doc-embed.js"></script>
+    <link rel="shortcut icon" href="http://www.writethedocs.org/_static/favicon.ico"/>
+    <link rel="top" title="Write the Docs" href="#" />
+    <link rel="next" title="Conferences" href="conf/" />
+  
+   
+  <link rel="stylesheet" href="http://www.writethedocs.org/_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  
+  <link rel="alternate" type="application/rss+xml"  href="/itunes.rss" title="{{ site.title }}">
+
+  <style type="text/css">
+    ul.ablog-archive {list-style: none; overflow: auto; margin-left: 0px}
+    ul.ablog-archive li {float: left; margin-right: 5px; font-size: 80%}
+    ul.postlist a {font-style: italic;}
+    ul.postlist-style-disc {list-style-type: disc;}
+    ul.postlist-style-none {list-style-type: none;}
+    ul.postlist-style-circle {list-style-type: circle;}
+  </style>
+
+  
+<!-- RTD Extra Head -->
+
+
+<link rel="canonical" href="http://podcast.writethedocs.org/" />
+
+<link rel="stylesheet" href="https://media.readthedocs.org/css/readthedocs-doc-embed.css" type="text/css" />
+
+<script type="text/javascript" src="http://www.writethedocs.org/_static/readthedocs-data.js"></script>
+
+<!-- Add page-specific data, which must exist in the page js, not global -->
+<script type="text/javascript">
+READTHEDOCS_DATA['page'] = 'index' 		
+READTHEDOCS_DATA['source_suffix'] = '.rst'
+</script>
+
+<script type="text/javascript" src="http://www.writethedocs.org/_static/readthedocs-dynamic-include.js"></script>
+
+<!-- end RTD <extrahead> --></head>
+  <body role="document">
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+              <h1>{{ page.title }}</h1>
+{{ content }}
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<p class="logo">
+  <a href="http://writethedocs.org/">
+    <img class="logo" src="http://www.writethedocs.org/_static/sticker-wtd-colors.png" alt="Logo"/>
+  </a>
+</p>
+            <br>
+
+            <a href="/" style="font-weight: bold;"><i class="fa fa-home" aria-hidden="true"></i> WTD Podcast Home</a>
+<p>
+{{ site.description }}
+</p>
+<br>
+<h3>Podcast Pages</h3>
+
+<ul>
+    {% for page in site.data.sidebar_links %}
+    <li class="toctree-l1"><a class="reference internal" href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endfor %}
+</ul>
+
+
+<h3>Podcast email list</h3>
+
+{% include tinyletter.html %}
+
 
         </div>
-    </section>
-
-
-    <!-- ===== SECTION ===== -->
-    <section class="section-negative">
-        <div class="container">
-
-            <!-- ===== PAGE CONTENT ===== -->
-            <div class="page-content mt-60">
-
-                <!-- ===== PAGE TITLE & DESCRIPTION ===== -->
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <h2 class="title-default mb-10">{{page.title}}</h2>
-                        <p class="page-description mb-70">{{content}}</p>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-    </section>
-
-
-    {% if page.type == "about" %}
-    <!-- ===== ABOUT US ===== -->
-    <section id="about-us" class="section-negative">
-        <div class="container">
-
-
-            <!-- ===== SECTION TITLE ===== -->
-            {% if page.type == "homepage" %}
-            <h2 class="secondaryTitle text-center">Behind the mic...</h2>
-            {% endif %}
-
-            <div class="row mb-30">
-
-                <!-- ===== TEAM CARD ===== -->
-                {% for profile in site.data.profiles.info %}
-
-                <div class="col-lg-4 col-lg-offset-0 col-md-8 col-md-offset-2 col-sm-12 mb-40">
-                    <div class="team-card">
-                        <figure class="team-card-image"><img src="/assets/img/team/{{profile.image}}" alt="{{profile.name}}" title="{{profile.name}}" /></figure>
-                        <div class="team-card-content">
-                            <h2 class="team-card-title">{{profile.name}}</h2>
-                            <p class="team-card-job"><a href="https://writethedocs.slack.com/team/{{profile.slack_handle}}">@{{profile.slack_handle}}</a></p>
-                            <p class="team-card-description">{{profile.description}}</p>
-                            <ul class="team-card-social">
-                                <li class="social-item"><a href="{{profile.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                <li class="social-item"><a href="{{profile.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                <li class="social-item"><a href="https://writethedocs.slack.com/team/{{profile.slack_handle}}" target="_blank"><i class="fa fa-slack"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                {% endfor %}
-
-            </div>
-
-        </div>
-    </section>
-    {% endif %}
-
-    {% include newsletter.html %}
-
-
+      </div>
+      <div class="clearer"></div>
     </div>
-    </section>
-
-</main>
-
-{% include footer.html %}
+  <div class="footer">
+      <div class="container">
+          <span style="float: left;">© Write the Docs 2017</span>
+          <span id="social-footer" class="pull-right">
+            <span><a href="mailto:conf@writethedocs.org"><i class="iconf-email"></i>conf@writethedocs.org</a></span> |
+            <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i>GitHub</a></span> | 
+            <span><a href="https://twitter.com/writethedocs"><i class="iconf-twitter-circled"></i>Twitter</a></span> | 
+            <span><a href="code-of-conduct/">Code&nbsp;of&nbsp;Conduct</a></span>
+          </span>
+      </div>
+</div>
+  </body>
+</html>
